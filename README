@@ -17,6 +17,17 @@
 └── README
 
 ```
+## Create Venv
+```bash
+
+python3 -m venv env
+
+```
+```bash
+
+source env/bin/activate
+
+```
 
 ## Installation
 
